@@ -10,19 +10,7 @@ This project demonstrates a lightweight face recognition pipeline using OpenCV's
 4. Compares the embeddings using **cosine similarity**.
 5. Classifies whether the two faces belong to the same person based on a similarity threshold.
 
-## 🗂️ project/ │ ├── face_recognition_dlib.py ├── res10_300x300_ssd_iter_140000.caffemodel ├── deploy.prototxt ├── person1.jpg ├── unknown2.jpg
 
-
-## 🧰 Requirements
-
-- Python 3.x
-- OpenCV (`opencv-python`)
-- NumPy
-
-Install dependencies:
-
-```bash
-pip install opencv-python numpy
 
 
 
